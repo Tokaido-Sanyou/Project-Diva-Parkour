@@ -1,0 +1,67 @@
+CANDYYYLAND - tofubeats, LIZ, Pa's Lam System
+5
+222
+musics/CANDYYYLAND - tofubeats, LIZ, Pa's Lam System.mp3
+images/CANDYYYLAND - tofubeats, LIZ, Pa's Lam System.png
+1.5
+Hand In Hand - Hatsune Miku, kz (livetune)
+4
+320
+musics/Hand In Hand - Hatsune Miku, kz (livetune).mp3
+images/Hand In Hand - Hatsune Miku, kz (livetune).png
+2
+Chin Up - Aiobahn, Puppet, Azuria Sky
+3
+160
+musics/Chin Up - Aiobahn, Puppet, Azuria Sky.mp3
+images/Chin Up - Aiobahn, Puppet, Azuria Sky.png
+2.5
+Hikari No Disco - CAPSULE
+2
+325
+musics/Hikari No Disco - CAPSULE.mp3
+images/Hikari No Disco - CAPSULE.png
+2.5
+Wildflower - Aika, Juu
+2
+293
+musics/Wildflower - Aika, Juu.mp3
+images/Wildflower - Aika, Juu.png
+3
+Gimme x Gimme - Hatsune Miku, HachiojiP, Giga, Kagamine Rin
+1
+221
+musics/Gimme x Gimme - Hatsune Miku, HachiojiP, Giga, Kagamine Rin.mp3
+images/Gimme x Gimme - Hatsune Miku, HachiojiP, Giga, Kagamine Rin.png
+3
+Tell Your World - Hatsune Miku, livetune
+4
+257
+musics/Tell Your World - Hatsune Miku, livetune.mp3
+images/Tell Your World - Hatsune Miku, livetune.png
+2
+Android Girl - Hatsune Miku, DECO27
+4
+216
+musics/Android Girl - Hatsune Miku, DECO27.mp3
+images/Android Girl - Hatsune Miku, DECO27.png
+2
+Rolling Girl - Hatsune Miku, wowaka
+5
+196
+musics/Rolling Girl - Hatsune Miku, wowaka.mp3
+images/Rolling Girl - Hatsune Miku, wowaka.png
+1.5
+Meltyland Nightmare - Hatsune Miku, Harumaki Gohan
+3
+270
+musics/Meltyland Nightmare - Hatsune Miku, Harumaki Gohan.mp3
+images/Meltyland Nightmare - Hatsune Miku, Harumaki Gohan.png
+2.5
+Wanderer - Hatsune Miku, Ayase YOASOBI
+3
+205
+musics/Wanderer - Hatsune Miku, Ayase YOASOBI.mp3
+
+images/Wanderer - Hatsune Miku, Ayase YOASOBI.png
+2.5
